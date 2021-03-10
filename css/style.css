@@ -1,0 +1,11 @@
+table th {
+  color: teal;
+  background-color: rgb(148, 199, 199);
+}
+
+#mainTable {
+  position: relative;
+  top: 10px;
+  border: solid 2px gray; /*表全体を線で囲う*/
+  width: 300px;
+}
